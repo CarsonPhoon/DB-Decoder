@@ -1,0 +1,6 @@
+{
+  "name": "SQLite DB Reader",
+  "description": "An offline browser-based SQLite database reader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
